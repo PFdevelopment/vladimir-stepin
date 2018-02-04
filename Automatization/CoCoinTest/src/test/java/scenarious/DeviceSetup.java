@@ -23,7 +23,7 @@ public class DeviceSetup {
         // Creating an object of DesiredCapabilities
         DesiredCapabilities capabilities = new DesiredCapabilities();
         // Version of Appium
-        capabilities.setCapability("appiumVersion", "6.0.0-Beta2");
+        capabilities.setCapability("appiumVersion", "5.0.4");
         // name of OS
         capabilities.setCapability("platformName", "Android");
         // Version of Mobile OS: 5.1

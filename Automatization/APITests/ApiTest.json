@@ -1,0 +1,1601 @@
+{
+	"version": 1,
+	"collections": [
+		{
+			"id": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+			"name": "API Playground",
+			"description": "These requests showcase some of the things you can do with the API",
+			"order": [
+				"6570c73b-4ba7-afbf-636b-85853d64e233",
+				"5fbf927a-533e-68ab-624a-883e399bd872",
+				"3e1d9b2b-e77d-37e4-85fa-e7df430388dc",
+				"db97c361-5226-e0fe-1567-fcd1b3e8aa4d"
+			],
+			"folders": [
+				{
+					"name": "Products",
+					"description": "This folder contains all test cases related with products.",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"collection": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"order": [
+						"19bca4e1-53c0-44e5-12d0-62e871eb8d89",
+						"aa00af08-f13e-f48b-e0ba-cf36eaf460c6",
+						"76fe2d0e-e257-fb8c-b6b5-0078e22a56b4",
+						"c35a1aba-f9dc-6afe-1047-3889fb9f74ac"
+					],
+					"owner": "3665843",
+					"folders_order": [],
+					"auth": null,
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "0eb28f4e-9116-4306-957b-a5ce2d926931",
+								"type": "text/javascript",
+								"exec": [
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "c27776f3-083a-4dab-a05b-3fe5fb90a59e",
+								"type": "text/javascript",
+								"exec": [
+									""
+								]
+							}
+						}
+					],
+					"createdAt": 1517770793861,
+					"updatedAt": 1517770793861,
+					"id": "e9445ac7-fdeb-dcb9-7d88-03da298a2d90",
+					"collection_id": "87a29db2-149d-f9c7-3559-3024ee01ccc1"
+				},
+				{
+					"name": "Stores",
+					"description": "",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"collection": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"order": [
+						"58527d4d-2eec-47f5-5675-2a763abc5092",
+						"66c6d524-dea8-7044-0d78-bffcf83273a6",
+						"1bb92f2a-74bb-dc73-1686-8beb173807d4",
+						"fe8d5706-d719-148a-6baf-e14004963c4e"
+					],
+					"owner": "3665843",
+					"folders_order": [],
+					"auth": null,
+					"createdAt": 1517770804606,
+					"updatedAt": 1517770804606,
+					"id": "3446f6c4-e2b9-dedf-73b8-bc7b822e6048",
+					"collection_id": "87a29db2-149d-f9c7-3559-3024ee01ccc1"
+				},
+				{
+					"name": "Services",
+					"description": "",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"collection": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"order": [
+						"893a7d08-919d-9227-1a23-b0142ec7f225",
+						"eb6ae958-b9ee-8b23-0083-6a70dafc8154",
+						"0301e1e0-9857-98f6-2f47-64b776efba04",
+						"e8479ce3-b88c-3251-c52b-1583ae3cabe5"
+					],
+					"owner": "3665843",
+					"folders_order": [],
+					"auth": null,
+					"createdAt": 1517770813503,
+					"updatedAt": 1517770813503,
+					"id": "78c1243c-1270-a9d0-f41c-0be9cf8d9652",
+					"collection_id": "87a29db2-149d-f9c7-3559-3024ee01ccc1"
+				},
+				{
+					"name": "Categories",
+					"description": "",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"collection": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"order": [
+						"29e84579-bb3a-0fe2-62c6-ed9d0c99bbc6",
+						"6de5b3c7-a6ef-d278-df79-fbde21caa356",
+						"f8758eec-8fc9-a0a1-b8a7-c593aa8df011",
+						"b2e57ab0-93c1-b70d-63e4-b6e289cfded4",
+						"9043655f-c5a9-2f77-ed75-036c28a14f21"
+					],
+					"owner": "3665843",
+					"folders_order": [],
+					"auth": null,
+					"createdAt": 1517770822350,
+					"updatedAt": 1517770822350,
+					"id": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"collection_id": "87a29db2-149d-f9c7-3559-3024ee01ccc1"
+				}
+			],
+			"folders_order": [
+				"e9445ac7-fdeb-dcb9-7d88-03da298a2d90",
+				"3446f6c4-e2b9-dedf-73b8-bc7b822e6048",
+				"78c1243c-1270-a9d0-f41c-0be9cf8d9652",
+				"8e6101ba-b144-fc0f-2ff4-2f90402e20fd"
+			],
+			"timestamp": 1479307983126,
+			"synced": true,
+			"remote_id": 0,
+			"owner": "3665843",
+			"sharedWithTeam": false,
+			"subscribed": false,
+			"remoteLink": "",
+			"remoteLinkUpdatedAt": null,
+			"public": false,
+			"createdAt": 1517770718558,
+			"updatedAt": 1517775012985,
+			"write": true,
+			"published": false,
+			"favorite": false,
+			"permissions": {},
+			"syncedPermissions": {},
+			"events": [],
+			"variables": [],
+			"auth": null,
+			"requests": [
+				{
+					"id": "0301e1e0-9857-98f6-2f47-64b776efba04",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\nid: id\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						},
+						{
+							"key": "id",
+							"value": "id",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/services/{{id}}",
+					"folder": "78c1243c-1270-a9d0-f41c-0be9cf8d9652",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "0a79ae68-d19b-4ba0-a860-d4e808751f6e",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Service Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "PUT",
+					"data": "{\n\t\"name\": \"Service Updated\"\n}",
+					"dataMode": "raw",
+					"auth": null,
+					"time": 1517771737939,
+					"name": "Update Service",
+					"description": "Summary: This test case updates an early created service;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Service Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "19bca4e1-53c0-44e5-12d0-62e871eb8d89",
+					"headers": "",
+					"headerData": [],
+					"url": "http://localhost:3030/products",
+					"folder": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "e69e3296-7b0e-4879-b8a8-950c0ead0605",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "24a1dae9-bf9a-4be0-b7a5-34b93ec894b2",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517774744356,
+					"name": "Watch All Products",
+					"description": "Summary: This test case shows all available products;\nPriority: Medium;\n",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "1bb92f2a-74bb-dc73-1686-8beb173807d4",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\nid: id\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						},
+						{
+							"key": "id",
+							"value": "id",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/stores/{{id}}",
+					"folder": "3446f6c4-e2b9-dedf-73b8-bc7b822e6048",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3ae431c2-7986-4b12-b4af-bebed255e749",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Store Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "PUT",
+					"data": "{\n\t\"name\": \"Store Updated\",\n\t\"address\": \"New York Street\",\n\t\"city\": \"Chicago\",\n\t\"state\": \"Illinois\",\n\t\"zip\": \"23512\"\n}",
+					"dataMode": "raw",
+					"auth": null,
+					"time": 1517771499603,
+					"name": "Update Store",
+					"description": "Summary: This test case updates an early created store;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Store Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "29e84579-bb3a-0fe2-62c6-ed9d0c99bbc6",
+					"headers": "",
+					"headerData": [],
+					"url": "http://localhost:3030/categories",
+					"folder": "3446f6c4-e2b9-dedf-73b8-bc7b822e6048",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "e69e3296-7b0e-4879-b8a8-950c0ead0605",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "24a1dae9-bf9a-4be0-b7a5-34b93ec894b2",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517774788565,
+					"name": "Watch All Categories",
+					"description": "Summary: This test case shows all available categories;\nPriority: Medium;\n",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "3e1d9b2b-e77d-37e4-85fa-e7df430388dc",
+					"headers": "",
+					"headerData": [],
+					"url": "localhost:3030/stores?$select[]=name",
+					"queryParams": [
+						{
+							"key": "$select[]",
+							"value": "name",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						}
+					],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "f85efbba-dd0d-459f-bf1e-218d679e0fd0",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									""
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517773549176,
+					"name": "Stores Names Only",
+					"description": "Summary: This test case shows the names of the available stores;\nPriority: Low;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\n",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "58527d4d-2eec-47f5-5675-2a763abc5092",
+					"headers": "",
+					"headerData": [],
+					"url": "localhost:3030/stores",
+					"folder": "3446f6c4-e2b9-dedf-73b8-bc7b822e6048",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "e69e3296-7b0e-4879-b8a8-950c0ead0605",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "24a1dae9-bf9a-4be0-b7a5-34b93ec894b2",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517774559418,
+					"name": "Watch All Stores",
+					"description": "Summary: This test case shows all available stores;\nPriority: Medium;\n",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "5fbf927a-533e-68ab-624a-883e399bd872",
+					"headers": "",
+					"headerData": [],
+					"url": "localhost:3030/products?$select[]=name&$select[]=description",
+					"queryParams": [
+						{
+							"key": "$select[]",
+							"value": "name",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						},
+						{
+							"key": "$select[]",
+							"value": "description",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						}
+					],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "5cfb4d86-60d2-4156-ad05-1aaea98f335d",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									""
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517773537472,
+					"name": "Product Name and Description Only",
+					"description": "Summary: This test case shows the name and  descriptin of the available products;\nPriority: Low;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\n",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "6570c73b-4ba7-afbf-636b-85853d64e233",
+					"headers": "",
+					"headerData": [],
+					"url": "localhost:3030/products?$sort[price]=-1",
+					"queryParams": [
+						{
+							"key": "$sort[price]",
+							"value": "-1",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						}
+					],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "8d7584f1-a0f8-4ed9-9aad-393f2767570a",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"",
+									""
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517773522162,
+					"name": "Highest Priced Products",
+					"description": "Summary: This test case shows the products with highest price;\nPriority: Medium;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\n\n",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "66c6d524-dea8-7044-0d78-bffcf83273a6",
+					"headers": "Content-Type: application/json\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"description": "",
+							"enabled": true
+						}
+					],
+					"url": "http://localhost:3030/stores",
+					"folder": "3446f6c4-e2b9-dedf-73b8-bc7b822e6048",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "0eab03da-02d7-4f02-adb9-f4e6d363cab8",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "8294c1b4-e1a5-43ac-826e-830da77735e2",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 201\"] = responseCode.code == 201;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"New Store\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "POST",
+					"data": "{      \n\t  \"name\": \"New Store\",\n      \"type\": \"BigBox\",\n      \"address\": \"123 Fake St\",\n      \"address2\": \"\",\n      \"city\": \"Springfield\",\n      \"state\": \"NY\",\n      \"zip\": \"10002\",\n      \"lat\": 44.969658,\n      \"lng\": -93.449539,\n      \"hours\": \"Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 10-8\"\n}",
+					"dataMode": "raw",
+					"version": 2,
+					"auth": null,
+					"time": 1517774983105,
+					"name": "Create Store",
+					"description": "Summary: This test case creates a new store;\nPriority: High",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 201\"] = responseCode.code == 201;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"New Store\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "6de5b3c7-a6ef-d278-df79-fbde21caa356",
+					"headers": "",
+					"url": "localhost:3030/categories?name[$like]=*TV*",
+					"pathVariables": {},
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"time": 1479317153064,
+					"name": "Categories with TV in the name",
+					"description": "",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"auth": null,
+					"owner": "3665843",
+					"collection_id": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"isFromCollection": true,
+					"folder": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "76fe2d0e-e257-fb8c-b6b5-0078e22a56b4",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\nid: id\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						},
+						{
+							"key": "id",
+							"value": "id",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/products/{{id}}",
+					"folder": "e9445ac7-fdeb-dcb9-7d88-03da298a2d90",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "ae0c80a9-0233-4063-8e67-d11c7f39cb4b",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Product Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "PUT",
+					"data": "{\n\t\"name\": \"Product Updated\",\n\t\"type\": \"Tablet PC\",\n    \"upc\": \"1234566\",\n    \"description\": \"Tablet PC\",\n    \"model\": \"IPad 10\"\n}",
+					"dataMode": "raw",
+					"auth": null,
+					"time": 1517771107279,
+					"name": "Update Product",
+					"description": "Summary: This test case updates an early created product;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Product Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "893a7d08-919d-9227-1a23-b0142ec7f225",
+					"headers": "",
+					"headerData": [],
+					"url": "localhost:3030/services",
+					"folder": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "e69e3296-7b0e-4879-b8a8-950c0ead0605",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "24a1dae9-bf9a-4be0-b7a5-34b93ec894b2",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517774780434,
+					"name": "Watch All Services",
+					"description": "Summary: This test case shows all available services;\nPriority: Medium;\n",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "9043655f-c5a9-2f77-ed75-036c28a14f21",
+					"headers": "Content-Type: application/json\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"description": "",
+							"enabled": true
+						}
+					],
+					"url": "http://localhost:3030/categories/{{id}}",
+					"folder": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "5cd9f914-a130-4343-8daa-b7cd9a725e2d",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Category Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "DELETE",
+					"data": [],
+					"dataMode": "raw",
+					"version": 2,
+					"auth": null,
+					"time": 1517774914720,
+					"name": "Delete Category",
+					"description": "Summary: This test case removes an early created category;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Category Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "aa00af08-f13e-f48b-e0ba-cf36eaf460c6",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/products",
+					"folder": "e9445ac7-fdeb-dcb9-7d88-03da298a2d90",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "112f5f23-6875-4544-a6ca-d7819fdeb99d",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 201\"] = responseCode.code == 201;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"New Product\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "POST",
+					"data": "{\n\t\"name\": \"New Product\",\n\t\"type\": \"Hard Good\",\n\t\"upc\": \"12345676\",\n\t\"price\": 99.99,\n\t\"description\": \"This is a placeholder request for creating a new product.\",\n\t\"model\": \"NP12345\"\n}",
+					"dataMode": "raw",
+					"version": 2,
+					"auth": null,
+					"time": 1517770868504,
+					"name": "Create Product",
+					"description": "Summary: This test case creates a new product;\nPriority: High",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 201\"] = responseCode.code == 201;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"New Product\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "b2e57ab0-93c1-b70d-63e4-b6e289cfded4",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\nid: id\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						},
+						{
+							"key": "id",
+							"value": "id",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/categories/{{id}}",
+					"folder": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "91317a69-9160-48ca-bcc6-a4f6f667fd7a",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Category Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "PUT",
+					"data": "{\n\t\"id\": \"id\",\n\t\"name\": \"Category Updated\"\n}",
+					"dataMode": "raw",
+					"auth": null,
+					"time": 1517772434822,
+					"name": "Update Categories",
+					"description": "Summary: This test case updates an early created category;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Category Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "c35a1aba-f9dc-6afe-1047-3889fb9f74ac",
+					"headers": "",
+					"headerData": [],
+					"url": "http://localhost:3030/products/{{id}}",
+					"queryParams": [],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "3f37372f-c39a-4b7d-aea8-3a2c42f25728",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Product Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"auth": null,
+					"method": "DELETE",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"data": null,
+					"dataMode": "params",
+					"name": "Delete Product",
+					"description": "Summary: This test case removes an early created product;\nPriority: High;",
+					"descriptionFormat": "html",
+					"time": 1517771191656,
+					"version": 2,
+					"responses": [],
+					"folder": "e9445ac7-fdeb-dcb9-7d88-03da298a2d90",
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Product Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "db97c361-5226-e0fe-1567-fcd1b3e8aa4d",
+					"headers": "",
+					"headerData": [],
+					"url": "localhost:3030/stores?state=NY",
+					"queryParams": [
+						{
+							"key": "state",
+							"value": "NY",
+							"equals": true,
+							"description": "",
+							"enabled": true
+						}
+					],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "495d06e4-7065-4222-b34d-3a887580bed3",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "d9d82f15-e8a6-4873-8797-d4d259f04fee",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									""
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "GET",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517773882512,
+					"name": "Find stores in New York",
+					"description": "Summary: This test case finds all the stores located in the New York.\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\n",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "e8479ce3-b88c-3251-c52b-1583ae3cabe5",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/services/{{id}}",
+					"folder": "78c1243c-1270-a9d0-f41c-0be9cf8d9652",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "57049f69-bcf4-4124-b5d4-43cd3fc43301",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Service Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "DELETE",
+					"data": [],
+					"dataMode": "raw",
+					"version": 2,
+					"auth": null,
+					"time": 1517771823457,
+					"name": "Delete Service",
+					"description": "Summary: This test case removes an early created service;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"rawModeData": "",
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Service Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "eb6ae958-b9ee-8b23-0083-6a70dafc8154",
+					"owner": "3665843",
+					"headers": "Content-Type: application/json\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"enabled": true,
+							"description": ""
+						}
+					],
+					"url": "http://localhost:3030/services",
+					"folder": "78c1243c-1270-a9d0-f41c-0be9cf8d9652",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "3ef8cda0-2037-4eaa-86d2-6e34a83068dd",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "8df45afd-6fc1-4570-970c-49571cca5fab",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 201\"] = responseCode.code == 201;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"New Service\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "POST",
+					"data": "{      \n\t  \"name\": \"New Service\"\n}",
+					"dataMode": "raw",
+					"version": 2,
+					"auth": null,
+					"time": 1517774080853,
+					"name": "Create Service",
+					"description": "Summary: This test case creates a new service;\nPriority: High",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"isFromCollection": true,
+					"timestamp": null,
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 201\"] = responseCode.code == 201;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"New Service\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "f8758eec-8fc9-a0a1-b8a7-c593aa8df011",
+					"headers": "Content-Type: application/json\n",
+					"headerData": [
+						{
+							"key": "Content-Type",
+							"value": "application/json",
+							"description": "",
+							"enabled": true
+						}
+					],
+					"url": "http://localhost:3030/categories",
+					"folder": "8e6101ba-b144-fc0f-2ff4-2f90402e20fd",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "ad0424d4-4d6f-45e2-b000-04e750254a74",
+								"type": "text/javascript",
+								"exec": [
+									"",
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "1aa60146-c77a-411e-9214-bd7d788a2745",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 201\"] = responseCode.code == 201;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"New Category\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "POST",
+					"data": "{      \n\t\"id\": \"pcmcat1234ss3355\",\n\t\"name\": \"New Category\"\n}",
+					"dataMode": "raw",
+					"version": 2,
+					"auth": null,
+					"time": 1517775012954,
+					"name": "Create Category",
+					"description": "Summary: This test case creates a new category;\nPriority: High",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": "\n",
+					"tests": "tests[\"Status code is 201\"] = responseCode.code == 201;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"New Category\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				},
+				{
+					"id": "fe8d5706-d719-148a-6baf-e14004963c4e",
+					"headers": "",
+					"headerData": [],
+					"url": "http://localhost:3030/stores/{{id}}",
+					"folder": "e9445ac7-fdeb-dcb9-7d88-03da298a2d90",
+					"queryParams": [],
+					"events": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "0d799424-1ce4-47cf-96a0-41c6706b686e",
+								"type": "text/javascript",
+								"exec": [
+									"tests[\"Status code is 200\"] = responseCode.code == 200;",
+									"",
+									"var contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");",
+									" ",
+									"tests[\"Has Content-Type\"] = contentTypeHeaderExists;",
+									" ",
+									"if (contentTypeHeaderExists) {",
+									"    tests[\"Content-Type is application/json\"] = ",
+									"      responseHeaders[\"Content-Type\"].has(\"application/json\");",
+									"}",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"total\", jsonData.total);",
+									"",
+									"if(pm.environment.get(\"total\")) {",
+									"    tests[\"environment var total > 1\"] = environment.total > 1;",
+									"}",
+									"",
+									"pm.test(\"Body matches string\", function () {",
+									"    pm.expect(pm.response.text()).to.include(\"name\");",
+									"});",
+									"",
+									"tests[\"Has correct text\"] = responseBody.has(\"Store Updated\");",
+									"",
+									"var jsonData = JSON.parse(responseBody);",
+									"postman.setEnvironmentVariable(\"id\", jsonData.id);"
+								]
+							}
+						}
+					],
+					"pathVariables": {},
+					"pathVariableData": [],
+					"method": "DELETE",
+					"data": null,
+					"dataMode": "params",
+					"version": 2,
+					"auth": null,
+					"time": 1517771511019,
+					"name": "Delete Store",
+					"description": "Summary: This test case removes an early created store;\nPriority: High;",
+					"collectionId": "87a29db2-149d-f9c7-3559-3024ee01ccc1",
+					"responses": [],
+					"preRequestScript": null,
+					"tests": "tests[\"Status code is 200\"] = responseCode.code == 200;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"Store Updated\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+					"currentHelper": null,
+					"helperAttributes": null
+				}
+			]
+		}
+	],
+	"environments": [
+		{
+			"id": "88e53d1c-c7b9-35bb-6756-1012521815c7",
+			"name": "API PLAYGROUND",
+			"team": null,
+			"timestamp": 1517776670643,
+			"values": [
+				{
+					"enabled": true,
+					"key": "name",
+					"type": "text",
+					"value": "tests[\"Status code is 201\"] = responseCode.code == 201;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"New Product\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);"
+				},
+				{
+					"enabled": true,
+					"key": "id",
+					"type": "text",
+					"value": "pcmcat1234ss3355"
+				},
+				{
+					"enabled": true,
+					"key": "total",
+					"type": "text",
+					"value": "19"
+				}
+			]
+		}
+	],
+	"headerPresets": [],
+	"globals": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "88e53d1c-c7b9-35bb-6756-1012521815c7",
+  "name": "API PLAYGROUND",
+  "values": [
+    {
+      "enabled": true,
+      "key": "name",
+      "value": "tests[\"Status code is 201\"] = responseCode.code == 201;\n\nvar contentTypeHeaderExists = responseHeaders.hasOwnProperty(\"Content-Type\");\n \ntests[\"Has Content-Type\"] = contentTypeHeaderExists;\n \nif (contentTypeHeaderExists) {\n    tests[\"Content-Type is application/json\"] = \n      responseHeaders[\"Content-Type\"].has(\"application/json\");\n}\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"total\", jsonData.total);\n\nif(pm.environment.get(\"total\")) {\n    tests[\"environment var total > 1\"] = environment.total > 1;\n}\n\npm.test(\"Body matches string\", function () {\n    pm.expect(pm.response.text()).to.include(\"name\");\n});\n\ntests[\"Has correct text\"] = responseBody.has(\"New Product\");\n\nvar jsonData = JSON.parse(responseBody);\npostman.setEnvironmentVariable(\"id\", jsonData.id);",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "id",
+      "value": "pcmcat1234ss3355",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "total",
+      "value": "19",
+      "type": "text"
+    }
+  ],
+  "timestamp": 1517776670643,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2018-02-04T20:40:39.531Z",
+  "_postman_exported_using": "Postman/5.5.2"
+}

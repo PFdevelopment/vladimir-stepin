@@ -12,7 +12,16 @@
  2.1. You have to install the IntelliJ IDEA Community Edition;
  2.2. You can download it from https://www.jetbrains.com/idea/download/download-thanks.html?platform=linux&code=IIC;
  2.3. Open the project inside of the IDE;
- 2.2. Everything is already configured to be used with maven;
- 2.3. You just need to download necessary files from the maven repositories by request of the IDE;
- 2.4. Then just run the AppiumTest class;
- 2.5. All tests were accomplished on the Android 6.0 Emulator created in Android Studio;
+ 2.4. Everything is already configured to be used with maven;
+ 2.5. You just need to download necessary files from the maven repositories by request of the IDE;
+ 2.6. Then just run the AppiumTest class;
+ 2.7. All tests were accomplished on the Android 6.0 Emulator created in Android Studio;
+
+3. For additional API tests I used the restAssured java library, log4j2 and testNG;
+3.1. You have to install the Intellij IDEA Community Edition;
+3.2. You can download it from https://www.jetbrains.com/idea/download/download-thanks.html?platform=linux&code=IIC;
+3.3. Open the project inside of the IDE;
+3.4. Everything is already configured to be used with maven;
+3.5. You just need to download necessary files from the maven repositories by request of the IDE;
+3.6. Then just run the TestExec class from the TestExecutor packcage;
+

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="24" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="4009" started-at="2018-02-14T12:32:13Z" finished-at="2018-02-14T12:32:17Z">
+    <groups>
+    </groups>
+    <test name="API" duration-ms="4009" started-at="2018-02-14T12:32:13Z" finished-at="2018-02-14T12:32:17Z">
+      <class name="TestExecutor.TestExec">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestExecutor.TestExec@35047d03]" name="setup" is-config="true" duration-ms="410" started-at="2018-02-14T12:32:13Z" finished-at="2018-02-14T12:32:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllAvalaibleCats()[pri:1, instance:TestExecutor.TestExec@35047d03]" name="getAllAvalaibleCats" duration-ms="1622" started-at="2018-02-14T12:32:14Z" finished-at="2018-02-14T12:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllAvalaibleCats -->
+        <test-method status="PASS" signature="getExplicitCat()[pri:2, instance:TestExecutor.TestExec@35047d03]" name="getExplicitCat" duration-ms="57" started-at="2018-02-14T12:32:15Z" finished-at="2018-02-14T12:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExplicitCat -->
+        <test-method status="PASS" signature="getInvalidCat()[pri:3, instance:TestExecutor.TestExec@35047d03]" name="getInvalidCat" duration-ms="27" started-at="2018-02-14T12:32:15Z" finished-at="2018-02-14T12:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidCat -->
+        <test-method status="PASS" signature="createCat()[pri:4, instance:TestExecutor.TestExec@35047d03]" name="createCat" duration-ms="372" started-at="2018-02-14T12:32:15Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCat -->
+        <test-method status="PASS" signature="updateCat()[pri:5, instance:TestExecutor.TestExec@35047d03]" name="updateCat" duration-ms="93" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCat -->
+        <test-method status="PASS" signature="deleteCat()[pri:6, instance:TestExecutor.TestExec@35047d03]" name="deleteCat" duration-ms="131" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCat -->
+        <test-method status="PASS" signature="getAllAvailableStores()[pri:7, instance:TestExecutor.TestExec@35047d03]" name="getAllAvailableStores" duration-ms="46" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllAvailableStores -->
+        <test-method status="PASS" signature="createStore()[pri:8, instance:TestExecutor.TestExec@35047d03]" name="createStore" duration-ms="71" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStore -->
+        <test-method status="PASS" signature="getExplicitStore()[pri:9, instance:TestExecutor.TestExec@35047d03]" name="getExplicitStore" duration-ms="24" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExplicitStore -->
+        <test-method status="PASS" signature="updateStore()[pri:10, instance:TestExecutor.TestExec@35047d03]" name="updateStore" duration-ms="49" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateStore -->
+        <test-method status="PASS" signature="deleteStore()[pri:11, instance:TestExecutor.TestExec@35047d03]" name="deleteStore" duration-ms="41" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteStore -->
+        <test-method status="PASS" signature="getInvalidStore()[pri:12, instance:TestExecutor.TestExec@35047d03]" name="getInvalidStore" duration-ms="54" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidStore -->
+        <test-method status="PASS" signature="getAllvailableProducts()[pri:13, instance:TestExecutor.TestExec@35047d03]" name="getAllvailableProducts" duration-ms="290" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllvailableProducts -->
+        <test-method status="PASS" signature="createProduct()[pri:14, instance:TestExecutor.TestExec@35047d03]" name="createProduct" duration-ms="61" started-at="2018-02-14T12:32:16Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method status="PASS" signature="getExplicitProduct()[pri:15, instance:TestExecutor.TestExec@35047d03]" name="getExplicitProduct" duration-ms="26" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExplicitProduct -->
+        <test-method status="PASS" signature="updateProduct()[pri:16, instance:TestExecutor.TestExec@35047d03]" name="updateProduct" duration-ms="37" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+        <test-method status="PASS" signature="deleteProduct()[pri:17, instance:TestExecutor.TestExec@35047d03]" name="deleteProduct" duration-ms="29" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+        <test-method status="PASS" signature="getAllAvailableServices()[pri:18, instance:TestExecutor.TestExec@35047d03]" name="getAllAvailableServices" duration-ms="41" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllAvailableServices -->
+        <test-method status="PASS" signature="createService()[pri:19, instance:TestExecutor.TestExec@35047d03]" name="createService" duration-ms="56" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createService -->
+        <test-method status="PASS" signature="getExplicitService()[pri:20, instance:TestExecutor.TestExec@35047d03]" name="getExplicitService" duration-ms="52" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExplicitService -->
+        <test-method status="PASS" signature="updateService()[pri:21, instance:TestExecutor.TestExec@35047d03]" name="updateService" duration-ms="105" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateService -->
+        <test-method status="PASS" signature="deleteService()[pri:22, instance:TestExecutor.TestExec@35047d03]" name="deleteService" duration-ms="84" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteService -->
+        <test-method status="PASS" signature="displayVersion()[pri:23, instance:TestExecutor.TestExec@35047d03]" name="displayVersion" duration-ms="32" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayVersion -->
+        <test-method status="PASS" signature="healthCheck()[pri:24, instance:TestExecutor.TestExec@35047d03]" name="healthCheck" duration-ms="117" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthCheck -->
+        <test-method status="PASS" signature="lastStartDate()[pri:0, instance:TestExecutor.TestExec@35047d03]" name="lastStartDate" is-config="true" duration-ms="47" started-at="2018-02-14T12:32:17Z" finished-at="2018-02-14T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastStartDate -->
+      </class> <!-- TestExecutor.TestExec -->
+    </test> <!-- API -->
+  </suite> <!-- Default Suite -->
+</testng-results>
